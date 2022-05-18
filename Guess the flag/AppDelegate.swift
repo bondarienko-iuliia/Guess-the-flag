@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Guess the flag
 //
-//  Created by Pavel Tarasevich on 30.04.2022.
+//  Created by Iuliia Bondarenko on 30.04.2022.
 //
 
 import UIKit
